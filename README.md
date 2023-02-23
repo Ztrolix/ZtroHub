@@ -1,7 +1,7 @@
 # ZtroHub
 
 ### Where can you download it?
-#### [On Github](https://github.com/Ztrolix/ZtrolixOS/releases)
+#### [On Github](https://github.com/Ztrolix/ZtroHub/releases)
     https://github.com/Ztrolix/ZtroHub/releases
 #### On Itch
     https://nova-t.itch.io/ztrohub
